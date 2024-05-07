@@ -1,10 +1,10 @@
 Python 3.10.11
 
-preprocess using preprocessor.ipynb
+1.preprocess using preprocessor.ipynb
 
-train binary model using binary_classifier.ipynb
+2.train binary model using binary_classifier.ipynb
 
-train CCNN Bi_LSTM using multiclass_training.ipynb
+3.train CCNN Bi_LSTM using multiclass_training.ipynb
 
-test combined model using combined_model.ipynb
+4.test combined model using combined_model.ipynb
 : )
